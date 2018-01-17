@@ -1,0 +1,7 @@
+{
+  "utterance": "heart beats ",
+  "intent_type": " HeartbeatsIntent",
+  "intent": {
+    "ThankYouKeyword": "Heart beats"
+  }
+}
